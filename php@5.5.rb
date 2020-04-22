@@ -2,10 +2,10 @@ class PhpAT55 < Formula
   desc "General-purpose scripting language"
   homepage "https://secure.php.net/"
   url "https://mirrors.sohu.com/php/php-5.5.38.tar.xz"
-  sha256 "578febd686018401c4857699b29502b1aecaf82bf43525d810867f583961ac6e"
+  sha256 "cb527c44b48343c8557fe2446464ff1d4695155a95601083e5d1f175df95580f"
 
   bottle do
-    sha256 "578febd686018401c4857699b29502b1aecaf82bf43525d810867f583961ac6e" => :high_sierra
+    sha256 "cb527c44b48343c8557fe2446464ff1d4695155a95601083e5d1f175df95580f" => :high_sierra
     sha256 "e5dc4f5d615c96734c5ae0fe262c0ece94c5d3f88793e51c0226427eb1a82144" => :sierra
     sha256 "e1fa7d5fb36745afda191136b1707b817b95bdb85dc875621d6632121cd4074c" => :el_capitan
   end
