@@ -2,7 +2,7 @@ class PhpAT55 < Formula
   desc "General-purpose scripting language"
   homepage "https://secure.php.net/"
   url "http://se2.php.net/get/php-5.5.15.tar.gz/from/a/mirror"
-  sha256 "cb527c44b48343c8557fe2446464ff1d4695155a95601083e5d1f175df95580f"
+  sha256 "578febd686018401c4857699b29502b1aecaf82bf43525d810867f583961ac6e"
 
   bottle do
     sha256 "578febd686018401c4857699b29502b1aecaf82bf43525d810867f583961ac6e" => :high_sierra
